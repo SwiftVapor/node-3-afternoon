@@ -1,0 +1,1 @@
+update product set description = $2 wehre product_id = $1
